@@ -12,7 +12,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		configure();
-		runBussinessLogic();
+		runBusinessLogic();
 
 		System.out.println("Finish!");
 	}
@@ -27,7 +27,7 @@ public class Main {
 		}
 	}
 
-	static void runBussinessLogic(){
+	static void runBusinessLogic(){
 		dialog.renderWindow();
 	}
 }
