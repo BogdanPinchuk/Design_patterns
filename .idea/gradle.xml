@@ -4,14 +4,17 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:/Program Files/Gradle/gradle-6.7.1-all/gradle-6.7.1" />
+        <option name="gradleHome" value="C:/Program Files/Gradle/gradle-7.6-all/gradle-7.6" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstract_factory" />
+            <option value="$PROJECT_DIR$/builder" />
             <option value="$PROJECT_DIR$/factory_method" />
           </set>
         </option>
