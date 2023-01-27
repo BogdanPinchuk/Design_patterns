@@ -5,4 +5,5 @@ include 'factory_method'
 include 'abstract_factory'
 include 'builder'
 include 'prototype'
+include 'singleton'
 
