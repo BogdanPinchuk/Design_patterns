@@ -7,3 +7,6 @@ include 'builder'
 include 'prototype'
 include 'singleton'
 
+// Creation Structural Patterns
+include 'adapter'
+
