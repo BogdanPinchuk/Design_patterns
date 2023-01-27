@@ -10,4 +10,5 @@ include 'singleton'
 // Creation Structural Patterns
 include 'adapter'
 include 'bridge'
+include 'composite'
 
