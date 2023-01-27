@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/abstract_factory" />
             <option value="$PROJECT_DIR$/builder" />
             <option value="$PROJECT_DIR$/factory_method" />
+            <option value="$PROJECT_DIR$/prototype" />
           </set>
         </option>
       </GradleProjectSettings>

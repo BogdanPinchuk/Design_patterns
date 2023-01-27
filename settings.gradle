@@ -4,4 +4,5 @@ rootProject.name = 'Design_patterns'
 include 'factory_method'
 include 'abstract_factory'
 include 'builder'
+include 'prototype'
 
