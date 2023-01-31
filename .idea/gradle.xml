@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/facade" />
             <option value="$PROJECT_DIR$/factory_method" />
+            <option value="$PROJECT_DIR$/flyweight" />
             <option value="$PROJECT_DIR$/prototype" />
             <option value="$PROJECT_DIR$/singleton" />
           </set>
