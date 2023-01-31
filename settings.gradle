@@ -12,4 +12,5 @@ include 'adapter'
 include 'bridge'
 include 'composite'
 include 'decorator'
+include 'facade'
 
