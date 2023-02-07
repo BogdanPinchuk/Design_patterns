@@ -15,4 +15,5 @@ include 'decorator'
 include 'facade'
 include 'flyweight'
 include 'proxy'
+include 'chain_of_responsibility'
 
