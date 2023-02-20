@@ -7,7 +7,7 @@ include 'builder'
 include 'prototype'
 include 'singleton'
 
-// Creation Structural Patterns
+// Structural Design Patterns
 include 'adapter'
 include 'bridge'
 include 'composite'
@@ -15,5 +15,8 @@ include 'decorator'
 include 'facade'
 include 'flyweight'
 include 'proxy'
+
+// Behavioral Design Patterns
 include 'chain_of_responsibility'
+include 'command'
 
