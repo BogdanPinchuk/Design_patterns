@@ -16,7 +16,7 @@ import javax.swing.WindowConstants;
 public class Editor {
 	public JTextArea textField;
 	public String clipboard;
-	private CommandHistory history = new CommandHistory();
+	private final CommandHistory history = new CommandHistory();
 
 	public void init() {
 		JFrame frame = new JFrame("Text editor (type & use buttons, Luke!)");

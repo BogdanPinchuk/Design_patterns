@@ -19,4 +19,5 @@ include 'proxy'
 // Behavioral Design Patterns
 include 'chain_of_responsibility'
 include 'command'
+include 'iterator'
 

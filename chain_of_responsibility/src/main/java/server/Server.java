@@ -5,7 +5,7 @@ import java.util.Map;
 import middleware.Middleware;
 
 public class Server {
-	private Map<String, String> users = new HashMap<>();
+	private final Map<String, String> users = new HashMap<>();
 	private Middleware middleware;
 
 	public void setMiddleware(Middleware middleware) {

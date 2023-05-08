@@ -4,8 +4,6 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="C:/Program Files/Gradle/gradle-7.6-all/gradle-7.6" />
@@ -24,6 +22,7 @@
             <option value="$PROJECT_DIR$/facade" />
             <option value="$PROJECT_DIR$/factory_method" />
             <option value="$PROJECT_DIR$/flyweight" />
+            <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/prototype" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/singleton" />

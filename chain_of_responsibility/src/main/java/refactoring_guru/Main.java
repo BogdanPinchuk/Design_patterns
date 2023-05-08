@@ -10,7 +10,7 @@ import middleware.UserExistsMiddleware;
 import server.Server;
 
 public class Main {
-	private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+	private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 	private static Server server;
 
 	public static void main(String[] args) throws IOException {
