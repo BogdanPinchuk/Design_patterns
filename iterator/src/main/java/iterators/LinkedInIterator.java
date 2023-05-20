@@ -45,14 +45,13 @@ public class LinkedInIterator implements ProfileIterator {
 		}
 
 		String friendEmail = emails.get(currentPosition);
-		Profile friendProfile = contacts.get(currentPosition);
-
-		if (friendProfile == null) {
-			friendProfile = linkedIn.requestContactInfoFromLinkedInAPI(friendEmail);
-			contacts.set(currentPosition, friendProfile);
+		Profile friendContact = contacts.get(currentPosition);
+		if (friendContact == null) {
+			friendContact = linkedIn.requestContactInfoFromLinkedInAPI(friendEmail);
+			contacts.set(currentPosition, friendContact);
 		}
 		currentPosition++;
-		return friendProfile;
+		return friendContact;
 	}
 
 	@Override

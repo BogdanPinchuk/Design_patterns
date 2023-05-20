@@ -14,7 +14,6 @@ public class Profile {
 
 	private final Map<String, List<String>> contacts = new HashMap<>();
 
-
 	public Profile(String name, String email, String... contacts) {
 		this.name = name;
 		this.email = email;

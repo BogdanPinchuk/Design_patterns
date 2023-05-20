@@ -46,7 +46,6 @@ public class FacebookIterator implements ProfileIterator {
 
 		String friendEmail = emails.get(currentPosition);
 		Profile friendProfile = profiles.get(currentPosition);
-
 		if (friendProfile == null) {
 			friendProfile = facebook.requestProfileFromFacebook(friendEmail);
 			profiles.set(currentPosition, friendProfile);

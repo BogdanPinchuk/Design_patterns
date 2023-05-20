@@ -20,4 +20,5 @@ include 'proxy'
 include 'chain_of_responsibility'
 include 'command'
 include 'iterator'
+include 'mediator'
 

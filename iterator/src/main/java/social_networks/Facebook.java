@@ -50,7 +50,7 @@ public class Facebook implements SocialNetwork {
 
 	private void simulateNetworkLatency() {
 		try {
-			Thread.sleep(2500);
+			Thread.sleep(250);
 		} catch (InterruptedException ex) {
 			ex.printStackTrace();
 		}
