@@ -26,6 +26,6 @@ public class Note {
 
 	@Override
 	public String toString() {
-		return super.toString();
+		return name;
 	}
 }
