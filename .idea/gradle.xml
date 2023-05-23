@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/mediator" />
             <option value="$PROJECT_DIR$/memento" />
+            <option value="$PROJECT_DIR$/observer" />
             <option value="$PROJECT_DIR$/prototype" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/singleton" />

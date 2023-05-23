@@ -22,4 +22,5 @@ include 'command'
 include 'iterator'
 include 'mediator'
 include 'memento'
+include 'observer'
 
