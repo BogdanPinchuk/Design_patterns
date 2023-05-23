@@ -24,4 +24,5 @@ include 'mediator'
 include 'memento'
 include 'observer'
 include 'states'
+include 'strategy'
 
