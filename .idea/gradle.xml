@@ -30,6 +30,8 @@
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/singleton" />
             <option value="$PROJECT_DIR$/states" />
+            <option value="$PROJECT_DIR$/strategy" />
+            <option value="$PROJECT_DIR$/template_method" />
           </set>
         </option>
       </GradleProjectSettings>

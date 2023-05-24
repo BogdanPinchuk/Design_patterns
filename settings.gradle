@@ -25,4 +25,5 @@ include 'memento'
 include 'observer'
 include 'states'
 include 'strategy'
+include 'template_method'
 
