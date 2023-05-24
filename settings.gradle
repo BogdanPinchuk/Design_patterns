@@ -26,4 +26,5 @@ include 'observer'
 include 'states'
 include 'strategy'
 include 'template_method'
+include 'visitor'
 

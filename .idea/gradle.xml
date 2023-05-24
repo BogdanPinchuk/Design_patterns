@@ -32,6 +32,7 @@
             <option value="$PROJECT_DIR$/states" />
             <option value="$PROJECT_DIR$/strategy" />
             <option value="$PROJECT_DIR$/template_method" />
+            <option value="$PROJECT_DIR$/visitor" />
           </set>
         </option>
       </GradleProjectSettings>
